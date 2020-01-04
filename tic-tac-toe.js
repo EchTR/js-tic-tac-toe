@@ -122,8 +122,9 @@ function kDiv(s){
 	} else {
 
 	}
+	console.clear();
 	console.log("Tahta:");
-	console.log(tahta[0]+" - "+tahta[1]+" - "+tahta[2]);
-	console.log(tahta[3]+" - "+tahta[4]+" - "+tahta[5]);
-	console.log(tahta[6]+" - "+tahta[7]+" - "+tahta[8]);
+	console.log("[" + tahta[0]+" - "+tahta[1]+" - "+tahta[2] + "]");
+	console.log("[" + tahta[3]+" - "+tahta[4]+" - "+tahta[5] + "]");
+	console.log("[" + tahta[6]+" - "+tahta[7]+" - "+tahta[8] + "]");
 }
