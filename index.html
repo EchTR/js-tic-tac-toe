@@ -2,13 +2,14 @@
 <html lang = "tr">
 <head>
 	<title>echtr - tic tac toe</title>
+	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="tema.css">
 	<script type="text/javascript" src = "tic-tac-toe.js"></script>
 </head>
 <body>
 	<br><br>
-	<h1 style = "color: red; position: absolute; margin-left: 210px;">XOX</h1>
+	<h1 style = "color: #e74c3c; position: absolute; margin-left: 210px;">XOX</h1>
 	<br>
 	<div class = "aDiv" id = "aDiv">
 		<div class = "kDiv1" id = "kDiv1" onclick = "kDiv(1)"></div>
@@ -23,8 +24,7 @@
 		<div class = "kDiv8" id = "kDiv8" onclick = "kDiv(8)"></div>
 		<div class = "kDiv9" id = "kDiv9" onclick = "kDiv(9)"></div>
 		<br><br><br><br><br><br><br><br>
-		<span>github: echtr</span>
-		<button onclick = "sifirla()" style = "float: right; margin-right: 15px;">Sıfırla</button>
+		<button onclick = "sifirla()" class = "sButton">Sıfırla</button>
 	</div>
 	<script type="text/javascript">
 		var tahta = [
