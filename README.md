@@ -10,4 +10,3 @@
 - Bütün olası galibiyetler oyunda.
 - Sıra çalma durumu giderildi.
 - Yer çalma durumu giderildi.
-                              
