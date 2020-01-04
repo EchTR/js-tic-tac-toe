@@ -1,5 +1,9 @@
 # Güncelleme Notları
 
+# v1.2
+- Yeni arayüz.
+- Oyun kazanılınca kazanan konumdaki taşların arkaplanı yeşil renk oluyor.
+
 # v1.1
 - Oyun bitince tahta kilitleniyor.
 - Yeniden başlat tuşu eklendi.
