@@ -1,5 +1,7 @@
 # Güncelleme Notları
 
+# v1.3
+- Sıranın hangi harfte(X-O) olduğunu gösteriyor. 
 # v1.2
 - Yeni arayüz.
 - Oyun kazanılınca kazanan konumdaki taşların arkaplanı yeşil renk oluyor.
